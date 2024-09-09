@@ -1,0 +1,19 @@
+{
+    "name": "luiz-filipee/tempconv",
+    "description": "a dead simple temperature converter. Converts C to F and vice versa.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LuizFilipee\\Tempconv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luiz-Filipee",
+            "email": "luizkato7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
